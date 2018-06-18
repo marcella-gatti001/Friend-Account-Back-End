@@ -70,7 +70,7 @@ Vagrant.configure("2") do |config|
    	apt-get update
     apt-get install -y apache2
     apt-get install -y python3-pip
-    apt-get install -y ython3.6
+    apt-get install -y python3.6
     apt-get install -y git-all
 
     pip3 install requests
